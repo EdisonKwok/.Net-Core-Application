@@ -1,0 +1,16 @@
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\bin\Debug\netcoreapp2.1\AspNetCoreTest.deps.json
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\bin\Debug\netcoreapp2.1\AspNetCoreTest.runtimeconfig.json
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\bin\Debug\netcoreapp2.1\AspNetCoreTest.runtimeconfig.dev.json
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\bin\Debug\netcoreapp2.1\AspNetCoreTest.dll
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\obj\Debug\netcoreapp2.1\AspNetCoreTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\obj\Debug\netcoreapp2.1\AspNetCoreTest.RazorAssemblyInfo.cache
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\obj\Debug\netcoreapp2.1\AspNetCoreTest.RazorAssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\obj\Debug\netcoreapp2.1\AspNetCoreTest.AssemblyInfoInputs.cache
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\obj\Debug\netcoreapp2.1\AspNetCoreTest.AssemblyInfo.cs
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\obj\Debug\netcoreapp2.1\AspNetCoreTest.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\bin\Debug\netcoreapp2.1\AspNetCoreTest.pdb
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\bin\Debug\netcoreapp2.1\AspNetCoreTest.xml
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\obj\Debug\netcoreapp2.1\AspNetCoreTest.dll
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\obj\Debug\netcoreapp2.1\AspNetCoreTest.xml
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\obj\Debug\netcoreapp2.1\AspNetCoreTest.pdb
+C:\Users\Administrator.DESKTOP-NTSN3KQ\source\repos\AspNetCoreTest\AspNetCoreTest\obj\Debug\netcoreapp2.1\AspNetCoreTest.csprojAssemblyReference.cache

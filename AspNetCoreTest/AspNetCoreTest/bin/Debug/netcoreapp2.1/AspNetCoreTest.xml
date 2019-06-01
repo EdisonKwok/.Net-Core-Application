@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AspNetCoreTest</name>
+    </assembly>
+    <members>
+        <member name="M:AspNetCoreTest.Controllers.ValuesController.Get">
+            <summary>
+            获取返回值
+            </summary>
+            <remarks>
+            
+            </remarks>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
